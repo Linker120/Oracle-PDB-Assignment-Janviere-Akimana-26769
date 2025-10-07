@@ -35,7 +35,8 @@ DROP PLUGGABLE DATABASE ja_to_delete_pdb_26769 INCLUDING DATAFILES;
 •	Access URL: https://localhost:5500/em
 
 •	EM Express was configured to monitor the database and verify connectivity.
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/faafd07f-5d99-446c-bd81-5526de4bfca2" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/51cb6b38-1baa-401a-810a-b38c3725101b" />
+
 
 
 •	EM Express dashboard
