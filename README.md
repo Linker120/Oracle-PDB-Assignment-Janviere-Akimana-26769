@@ -7,7 +7,9 @@ This assignment demonstrates the creation and management of Oracle Pluggable Dat
 🛠️ Task 1 — Create Pluggable Database
 
 •	PDB Name: ja_pdb_26769
+
 •	Admin User: janviere_plsqlauca_26769
+
 •	Password: auca
 
 Steps Performed:
@@ -43,4 +45,4 @@ NULL	EXEC DBMS_XDB_CONFIG.SETHTTPSPORT(5500);
 All tasks were completed successfully, demonstrating proficiency in Oracle PDB creation, deletion, and monitoring setup. The assignment validates the ability to manage container databases and use EM Express for administration.
 
 ## Thank you 
----
+----
