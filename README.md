@@ -31,7 +31,9 @@ DROP PLUGGABLE DATABASE ja_to_delete_pdb_26769 INCLUDING DATAFILES;
 ![WhatsApp Image 2025-10-06 at 14 02 12_9b7ca8e2](https://github.com/user-attachments/assets/3d93c738-4fa5-41de-b650-1bf5b1cb8506)
 
 📊 Task 3 — Configure Enterprise Manager (EM) Express
+
 •	Access URL: https://localhost:5500/em
+
 •	EM Express was configured to monitor the database and verify connectivity.
 ![WhatsApp Image 2025-10-06 at 14 58 43_e4383199](https://github.com/user-attachments/assets/7949954c-dc28-4253-b6f8-15327fc53478)
 
