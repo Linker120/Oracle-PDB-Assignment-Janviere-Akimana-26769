@@ -3,6 +3,7 @@
 
 📘 Overview
 This assignment demonstrates the creation and management of Oracle Pluggable Databases (PDBs), including setup, deletion, and monitoring via Enterprise Manager (EM) Express. All tasks were executed successfully and verified with screenshots.
+
 🛠️ Task 1 — Create Pluggable Database
 •	PDB Name: ja_pdb_26769
 •	Admin User: janviere_plsqlauca_26769
